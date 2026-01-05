@@ -12,10 +12,13 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Senior Java Software Engineer** with a knack for turning complex challenges into elegant solutions. Think of me as a code detective with **Sherlock Holmes-level deduction skills** for solving the toughest programming mysteries! 🕵️‍♂️
+I'm a passionate **Senior Java Software Engineer** evolving into a **Software Architect** — shifting from line-by-line coding to orchestrating systems at scale, thanks to AI's transformative capabilities. Think of me as a **systems strategist** with Sherlock Holmes-level deduction skills for solving architectural challenges! 🕵️‍♂️
 
-Currently working at **Mabaya (acquired by Criteo)** where I architect scalable microservices that handle **millions of requests daily**. I love optimizing systems, mentoring developers, and building robust cloud-native solutions.
+Currently at **Mabaya (acquired by Criteo)**, I architect scalable microservices handling **millions of requests daily**. I leverage **AI-powered tools like Cursor, GitHub Copilot, and ChatGPT** to accelerate development while focusing on what matters most: **system design, performance optimization, and technical leadership**.
 
+My expertise spans **Java, Spring Boot, Kubernetes, microservices, and modern DevOps practices** — combined with AI-augmented workflows that let me deliver solutions faster and smarter.
+
+**I'm currently open to new opportunities** where I can bring my blend of hands-on engineering expertise and architectural vision to build scalable, intelligent systems.
 ---
 
 ## 👀 I'm interested in...
