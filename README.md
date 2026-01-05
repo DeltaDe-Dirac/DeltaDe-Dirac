@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Igor Shevtsov (@DeltaDe-Dirac)
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2E86AB&center=true&vCenter=true&width=600&lines=Senior+Java+Software+Engineer;7%2B+Years+of+Experience;Microservices+%26+Cloud+Architecture;Problem+Solver+%26+Code+Detective" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2E86AB&center=true&vCenter=true&width=600&lines=Senior+Java+Software+Engineer;10%2B+Years+of+Experience;Microservices+%26+Cloud+Architecture;Problem+Solver+%26+Code+Detective" alt="Typing SVG" />
 </div>
 
 <div align="center">
